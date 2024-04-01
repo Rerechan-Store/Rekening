@@ -1,4 +1,4 @@
-*/
+/*
     Script Ini dibuat oleh:
 
     Anggota: 
