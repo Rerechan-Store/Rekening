@@ -1,3 +1,19 @@
+*/
+    Script Ini dibuat oleh:
+
+    Anggota: 
+    1.Misbahulmunir S
+    2.Fahri Wahyu F
+
+Tools Yang Digunakan:
+- PC Warnet
+- VSCODE
+- Github
+- VPS LINUX Debian 10 & Ubuntu 20.04
+- https://www.onlinegdb.com/online_c++_compiler
+- Thanks To Rerechan02 yang telah ikut membantu dalam pembuatan Script ini
+/*
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
